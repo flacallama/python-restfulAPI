@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.header{
+  background-color: red;
+  height: 8vh;
+  width: 100vw;
+}
+
+.selectorCards{
+  height: 300px;
+  width: 19vw;
+}
+
+.align{
+  vertical-align: baseline ;
+}
+
+.donutPicSm {
+  width: 80%;
+}
+
+.inline{
+  display: inline-block ;
+}
+
+
+.donutPic {
+  width: 350px;
+}
