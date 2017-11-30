@@ -18,5 +18,6 @@ module.exports = {
       required: true
     }
 
-  }
+  },
+  connection: 'mongodb'
 };

@@ -27,5 +27,6 @@
 
 
 
-   }
+   },
+   connection: 'mongodb'
  };
